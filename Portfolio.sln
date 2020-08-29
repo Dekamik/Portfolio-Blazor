@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Server", "Portfolio\Server\Portfolio.Server.csproj", "{94FA06AF-3016-47F2-BD89-54E076A0440D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.Server", "Portfolio\Server\Portfolio.Server.csproj", "{94FA06AF-3016-47F2-BD89-54E076A0440D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Client", "Portfolio\Client\Portfolio.Client.csproj", "{4650003B-3AF4-4659-AF85-5D3682AB6F43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.Client", "Portfolio\Client\Portfolio.Client.csproj", "{4650003B-3AF4-4659-AF85-5D3682AB6F43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Shared", "Portfolio\Shared\Portfolio.Shared.csproj", "{80803A9C-495D-4E7D-AAAA-D5428E8AE94E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.Shared", "Portfolio\Shared\Portfolio.Shared.csproj", "{80803A9C-495D-4E7D-AAAA-D5428E8AE94E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
